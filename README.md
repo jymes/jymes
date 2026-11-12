@@ -26,7 +26,10 @@ My professional interests combine technical support, network management, and inf
 
 I enjoy solving technical challenges, implementing practical IT solutions, supporting users, and continuously expanding my knowledge of emerging cybersecurity technologies and industry best practices.
 
+
+
 🎯 Areas of Expertise
+
 
 🖥️ IT Support & Technical Troubleshooting – Hardware and software troubleshooting, system configuration, user support, and technical maintenance.
 
@@ -62,7 +65,10 @@ IT Service Management
 
 System Monitoring & Troubleshooting
 
+
 📚 Currently Learning & Improving
+
+
 
 Advanced Cybersecurity Operations
 
@@ -76,7 +82,9 @@ Digital Forensics and Incident Response
 
 Network Engineering and Administration
 
+
 🚀 What You'll Find on My GitHub
+
 
 This repository showcases my technical journey, practical projects, and continuous learning in IT support, networking, and cybersecurity.
 
