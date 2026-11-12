@@ -1,9 +1,9 @@
-<!-- PROFILE BANNER -->
+   <!-- PROFILE BANNER -->
 
 <p align="center">
   <img
-    src="https://github.com/jymes/jymes/blob/main/IT%20Support%20and%20Cybersecurity%20Network%20Banner.png?raw=true"
-    alt="IT Support, Network Operations and Cybersecurity Analyst Banner"
+    src="[https://github.com/jymes/jymes/blob/main/IT%20Support%20and%20Cybersecurity%20Network%20Banner.png?raw=true"
+    alt="Cybersecurity Analyst Network Operations and IT Support Banner"
     width="100%"
   />
 </p>
