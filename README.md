@@ -1,39 +1,101 @@
-# 👋 Hello, I'm an IT Support & Cybersecurity Professional
+<!-- PROFILE BANNER -->
 
-### 🛡️ Cybersecurity Analyst | 💻 IT Support Specialist | 🌐 Network Administrator
+<p align="center">
+  <img
+    src="https://github.com/jymes/jymes/blob/main/IT%20Support%20and%20Cybersecurity%20Network%20Banner.png?raw=true"
+    alt="IT Support, Network Operations and Cybersecurity Analyst Banner"
+    width="100%"
+  />
+</p>
 
-Welcome to my GitHub profile!
+<h1 align="center">Hi 👋, I'm James Adegbola</h1>
 
-I am an IT professional passionate about cybersecurity, network administration, IT infrastructure, and technical support. I focus on helping organizations maintain secure, reliable, and efficient IT environments through proactive troubleshooting, network management, system administration, and security best practices.
+<h3 align="center">
+  Cybersecurity Analyst | IT Support Specialist | Network Administrator
+</h3>
 
-With a strong background in IT support and network operations, I enjoy identifying technical challenges, implementing practical solutions, protecting digital assets, and continuously developing my cybersecurity expertise.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=IT+Support+%26+Network+Operations;Cybersecurity+%26+Information+Security;Network+Administration+%26+Troubleshooting;Protecting+Systems+%2C+Networks+%26+Data" alt="Typing introduction" />
+</p>
 
-### 🔍 Areas of Expertise
+👨‍💻 About Me
 
-- **Cybersecurity:** Security monitoring, vulnerability assessment, threat detection, incident response, and risk management.
-- **IT Support:** Hardware and software troubleshooting, system maintenance, technical support, and help desk operations.
-- **Network Administration:** Network configuration, LAN/WAN management, TCP/IP, DNS, DHCP, routers, switches, and network troubleshooting.
-- **System Administration:** Windows administration, user account management, access control, system configuration, and maintenance.
-- **Data Protection:** Data backup, recovery, access management, and security awareness.
-- **IT Infrastructure:** Network infrastructure deployment, maintenance, documentation, and optimization.
+I am an IT professional specializing in IT Support, Network Administration, Network Operations, and Cybersecurity. I am passionate about maintaining reliable IT infrastructure, troubleshooting complex technical issues, securing digital environments, and ensuring business systems operate efficiently.
 
-### 🧰 Technical Interests & Tools
+My professional interests combine technical support, network management, and information security, with a strong focus on identifying vulnerabilities, mitigating security risks, and improving the reliability and resilience of IT systems.
 
-- Operating Systems: Windows, Linux
-- Networking: TCP/IP, DNS, DHCP, VPN, LAN/WAN
-- Cybersecurity: Wireshark, Nmap, SIEM concepts, vulnerability scanning
-- IT Support: Active Directory, Microsoft 365, Remote Desktop
-- Version Control: Git and GitHub
-- Security Practices: Access control, endpoint protection, incident response
+I enjoy solving technical challenges, implementing practical IT solutions, supporting users, and continuously expanding my knowledge of emerging cybersecurity technologies and industry best practices.
 
-### 🚀 What You'll Find on My GitHub
+🎯 Areas of Expertise
 
-This repository showcases my practical projects, technical documentation, cybersecurity labs, networking exercises, troubleshooting guides, and IT support solutions.
+🖥️ IT Support & Technical Troubleshooting – Hardware and software troubleshooting, system configuration, user support, and technical maintenance.
 
-My goal is to demonstrate practical technical skills, share knowledge, and contribute to building secure and reliable technology environments.
+🌐 Network Administration – Network configuration, LAN/WAN management, connectivity troubleshooting, and infrastructure support.
 
-### 🎯 Professional Mission
+🔐 Cybersecurity Analysis – Security monitoring, vulnerability awareness, threat identification, and risk mitigation.
 
-To leverage technology, cybersecurity principles, and IT infrastructure expertise to solve real-world technical problems, strengthen organizational security, and improve business operations.
+🛡️ Network Security – Access control, network protection, security protocols, and infrastructure hardening.
 
-**Let's connect, collaborate, and build a more secure digital world!**
+💾 Data Backup & Recovery – Data protection, backup management, recovery procedures, and business continuity.
+
+🖨️ IT Infrastructure Management – Server support, printer troubleshooting, hardware maintenance, and IT asset management.
+
+🚨 Incident Response – Security event investigation, log analysis, incident documentation, and remediation.
+
+🛠️ Technical Interests
+
+Cybersecurity Operations (SOC)
+
+Network Security & Infrastructure
+
+Vulnerability Assessment
+
+Threat Intelligence
+
+Incident Detection & Response
+
+Windows & Linux Administration
+
+Cloud Security Fundamentals
+
+IT Service Management
+
+System Monitoring & Troubleshooting
+
+📚 Currently Learning & Improving
+
+Advanced Cybersecurity Operations
+
+Network Security and Threat Detection
+
+Security Information and Event Management (SIEM)
+
+Cloud Infrastructure and Security
+
+Digital Forensics and Incident Response
+
+Network Engineering and Administration
+
+🚀 What You'll Find on My GitHub
+
+This repository showcases my technical journey, practical projects, and continuous learning in IT support, networking, and cybersecurity.
+
+You will find:
+
+IT support and troubleshooting documentation.
+
+Network configuration and administration projects.
+
+Cybersecurity labs and practical security exercises.
+
+System administration scripts and automation.
+
+Security analysis and incident response projects.
+
+Technical documentation and knowledge-sharing resources.
+
+🤝 Let's Connect
+
+I am always interested in connecting with IT professionals, cybersecurity practitioners, network engineers, recruiters, and technology enthusiasts.
+
+My goal is simple: Keep systems running, networks connected, and digital environments secure.
